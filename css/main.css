@@ -1,0 +1,29 @@
+
+
+.jumbotron {
+	min-height: 600px;
+	background-image: url('../images/cityscape-ldn.png'); 
+	background-size: cover;  
+}
+
+.panel {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+#social-buttons button { color: white;
+}
+.btn-twitter {
+background-color: #00acee;
+border-color: #009ad5; }
+.btn-facebook { background-color: #4868ac; border-color: #314776;
+}
+.btn-pinterest {
+background-color: #b62f26;
+border-color: #b62f26; }
+
+h1 {
+	color: rgb(0,0,255);
+}
